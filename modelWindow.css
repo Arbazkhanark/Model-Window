@@ -2,3 +2,65 @@
     margin: 0px;
     padding: 0px;
 }
+
+body{
+    margin: 50px;
+    background: rgb(152, 199, 193);
+}
+
+
+.heading{
+    text-align: center;
+}
+
+.btns{
+    padding:20px
+    
+    
+}
+.show-btn{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width:175px;
+    padding:10px;
+    margin-left: 160px;
+    border: 2px solid black;
+    border-radius: 200px;
+    margin-top: 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.btn1:hover, .btn2:hover, .btn3:hover {
+    background-color: #9ae49d;
+    text-decoration: none;
+    color: aliceblue;
+    border:none;
+}
+
+.model{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: content-box;
+    padding:15px;
+    text-align: center;
+    background: rgb(241, 234, 234);
+    height:auto;
+    width: 600px;
+}
+
+.hidden{
+    display: none;
+}
+
+.model p{
+    text-align: center;
+    text-indent: 70px;
+    line-height: 30px;
+    
+}
+.close-model{
+    width: 30px;
+    float: right;
+    margin: 5px;
+}

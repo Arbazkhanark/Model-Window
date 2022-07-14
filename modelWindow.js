@@ -1,5 +1,7 @@
 'use strict'
 
+
+//We select some classes here and make variable
 const model=document.querySelector('.model');
 const overlay=document.querySelector('.overlay');
 const close_btn=document.querySelector('.close-model');

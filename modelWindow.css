@@ -13,19 +13,15 @@ body{
     text-align: center;
 }
 
-.btns{
-    padding:20px
-    
-    
-}
-.show-btn{
+
+.show_btn{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    width:175px;
-    padding:10px;
+    width:200px;
+    padding:15px;
     margin-left: 160px;
     border: 2px solid black;
     border-radius: 200px;
-    margin-top: 15px;
+    margin-top: 65px;
     font-size: 20px;
     cursor: pointer;
 }
@@ -49,7 +45,7 @@ body{
     width: 600px;
 }
 
-.hidden{
+.hidden {
     display: none;
 }
 
